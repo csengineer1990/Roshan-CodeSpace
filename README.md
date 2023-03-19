@@ -6,9 +6,10 @@ Introduction
 
 <p align="center">
   <a href="https://rupali-codes.netlify.app">
-  <img src="https://user-images.githubusercontent.com/78981177/208293926-465377eb-4812-4c4a-b312-0e66281a697c.png" alt="header image"/>
+  <img src="https://user-images.githubusercontent.com/68468678/226173874-c4c5f043-f2d0-4878-8471-da559118c1c3.png" alt="header image"/>
   </a>
 </p>
+
 
 <p align="center"> 
   <a href="https://twitter.com/roshangoswami">
